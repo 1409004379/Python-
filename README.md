@@ -1,12 +1,14 @@
-# pygame使用到的方法总结
 
-###1,使用字体创建图像
+## 运行项目 使用 python3 alien_invision.py
+### pygame使用到的方法总结
+
+### 1,使用字体创建图像
 
 ### font.render(text,antialias,color,background=None) 
 
 #### text 显示的文本 字符串    antialias 为True时文本图像显示更光滑，为False时文本图像显示有锯齿状 
 
-### color 文本的颜色   参数background：为文本背景颜色，默认为无色
+### color 文本的颜色    参数background：为文本背景颜色，默认为无色
 
 ### 2,在屏幕上显示某个图像的方法
 
